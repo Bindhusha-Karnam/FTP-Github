@@ -1,4 +1,7 @@
 chocolate 
 biscuit
 lollipop
-jsgrjijf
+<<<<<<<fds HEAD
+jsgrjijfbdgbnsngf
+=======
+>>>>>>> 4e3b7c15670a271d5b98a977bfa30c8e3085a878
